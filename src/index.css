@@ -2,7 +2,8 @@ body {
   font-family: Georgia, serif;
   background-color: #f8f8f8;
   margin: 0;
-  padding: 0;
+  padding: 25px;
+  background-color: goldenrod;
 }
 
 #logo-image {
@@ -10,4 +11,7 @@ body {
   margin-right: 10px;
 }
 
-/* Add your own custom styles here */
+img {
+  width: 300px;
+  
+}
